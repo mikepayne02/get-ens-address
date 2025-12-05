@@ -1,0 +1,6 @@
+name = "ens"
+main = "index.ts"
+compatibility_date = "2025-10-31"
+
+[vars]
+INFURA_API_KEY="048a22fbc9914618bf973477141609c2"
